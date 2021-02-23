@@ -1,12 +1,18 @@
- <h3 align=center> Hi there 👋😄 </h3>
+ <h3> Hi there 👋😄 </h3>
 
 _____
+
+
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/73751801/106273787-fcca1400-6211-11eb-8be7-bd7825f50485.png">
 
 - 🔭 I’m currently in career migration: Chemistry >> front-end developer
 - 🌱 I’m currently learning HTML, JavaScript, CSS, Bootstrap, Angular, PostgreSQL and others.
 - ⚡ Fun fact: I am passionate about photography. Birds, nature, moon ... an observer. 
-- 📫 How to reach me: [My links](https://linktr.ee/luanagiusto)
+- 📫 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/luanagiusto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/luanagiusto/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+35+988149221&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:luanagiusto@gmail.com)
+ 
+- Thanks for visiting.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73751801/106273787-fcca1400-6211-11eb-8be7-bd7825f50485.png" alt="Logo LG"/>
-</p>
