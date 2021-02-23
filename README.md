@@ -3,7 +3,7 @@
 _____
 
 
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/73751801/106273787-fcca1400-6211-11eb-8be7-bd7825f50485.png">
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/73751801/106273787-fcca1400-6211-11eb-8be7-bd7825f50485.png">
 
 - 🔭 I’m currently in career migration: Chemistry >> front-end developer
 - 🌱 I’m currently learning HTML, JavaScript, CSS, Bootstrap, Angular, PostgreSQL and others.
