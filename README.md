@@ -7,7 +7,7 @@ _____
 
 - 🔭 I’m currently in career migration: Chemistry >> front-end developer
 - 🌱 I’m currently learning HTML, JavaScript, CSS, Bootstrap, Angular, PostgreSQL and others.
-- ⚡ Fun fact: I am passionate about photography. Birds, nature, moon ... an observer. 
+- ⚡ Fun fact: I am passionate about games and photography. Birds, nature, moon ... an observer. 
 - 📫 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/luanagiusto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/luanagiusto/)
