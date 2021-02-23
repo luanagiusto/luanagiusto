@@ -3,7 +3,7 @@
 _____
 
 - 🔭 I’m currently in career migration: Chemistry >> front-end developer
-- 🌱 I’m currently learning HTML, JavaScript, CSS, Bootstrap, Ruby, PostgreSQL and others.
+- 🌱 I’m currently learning HTML, JavaScript, CSS, Bootstrap, Angular, PostgreSQL and others.
 - ⚡ Fun fact: I am passionate about photography. Birds, nature, moon ... an observer. 
 - 📫 How to reach me: [My links](https://linktr.ee/luanagiusto)
 
