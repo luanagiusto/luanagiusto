@@ -16,3 +16,4 @@ _____
  
 - Thanks for visiting.
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=luanagiusto&show_icons=true)
