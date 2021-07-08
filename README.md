@@ -16,6 +16,6 @@ _____
  
 - Thanks for visiting.
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=luanagiusto&show_icons=true&theme=gotham) 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luanagiusto&layout=compact&theme=gotham)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=luanagiusto&show_icons=true&theme=vision-friendly-dark) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luanagiusto&layout=compact&theme=vision-friendly-dark)
 
