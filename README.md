@@ -1,4 +1,4 @@
- <h3 align="center"> Hi there 👋😄 </h3>
+ <h3 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">😄 </h3> 
 
 _____
 
@@ -16,5 +16,6 @@ _____
  
 - Thanks for visiting.
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=luanagiusto&show_icons=true&theme=vision-friendly-dark) 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luanagiusto&theme=vision-friendly-dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=luanagiusto&show_icons=true&theme=gotham) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luanagiusto&layout=compact&theme=gotham)
+
