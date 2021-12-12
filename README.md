@@ -7,7 +7,7 @@ _____
 <ul align="center">
 
  🔭 I’m currently in career migration: Chemistry >> FullStack Developer <br>
- 🌱 I’m currently learning HTML, JavaScript, CSS, Angular, .NET, python and others <br>
+ 🌱 I’m currently learning HTML, JavaScript, CSS, Angular, Figma, python and others <br>
  ⚡ Fun fact: I am passionate about games and photography. Birds, nature, moon ... an observer <img src="https://media.giphy.com/media/iIZ0G8bDanFrjttoWn/giphy.gif" width="20"><br>
  📫 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/luanagiusto)
