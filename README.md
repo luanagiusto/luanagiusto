@@ -6,7 +6,7 @@ _____
 
 <ul align="center">
 
- 🔭 I’m currently in career migration: Chemistry >> FullStack Developer <br>
+ 🔭 I’m currently in career migration: Chemistry >> Front-end Developer <br>
  🌱 I’m currently learning HTML, JavaScript, CSS, Angular, Figma, python and others <br>
  ⚡ Fun fact: I am passionate about games and photography. Birds, nature, moon ... an observer <img src="https://media.giphy.com/media/iIZ0G8bDanFrjttoWn/giphy.gif" width="20"><br>
  📫 
